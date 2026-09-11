@@ -14,7 +14,7 @@ Bioinformatics pipeline for downloading and analyzing *Helicobacter pylori* geno
 |--------|-------|
 | Total NCBI records | 13,066 |
 | Unique genomes (deduplicated) | 9,385 |
-| Gastric cancer-source strains | 182 |
+| Gastric cancer-source strains | 218 |
 
 ## Requirements
 - NCBI datasets CLI (v18.32+)
