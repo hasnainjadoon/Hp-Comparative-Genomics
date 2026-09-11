@@ -6,7 +6,7 @@ Bioinformatics pipeline for downloading and analyzing *Helicobacter pylori* geno
 - Downloads all H. pylori genomes (taxon ID: 210) from NCBI using datasets CLI
 - Deduplicates GCA/GCF paired records → 9,385 unique genomes
 - Extracts metadata including host disease annotation
-- Identifies 182 confirmed gastric cancer-source strains
+- Identifies 218 confirmed gastric cancer-source strains
 - Downloads FASTA files using dehydrate/rehydrate method (resilient to network drops)
 
 ## Key Results
